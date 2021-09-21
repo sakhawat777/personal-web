@@ -1,0 +1,110 @@
+body {
+	font-family: 'Be Vietnam Pro', sans-serif;
+	margin: 0px;
+}
+.top-header {
+	font-size: 2rem;
+	font-weight: 400;
+}
+.second-header {
+	font-size: 3rem;
+	font-weight: 700;
+	color: #ec4978;
+}
+.header-para {
+	color: #868686;
+}
+.half-width {
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	margin-top: 60px;
+}
+.half-width img {
+	width: 100%;
+}
+.anchor-button {
+	text-decoration: none;
+	background-color: #ec4978;
+	color: white;
+	border-radius: 5px;
+	padding: 6px 12px;
+	font-weight: 300;
+}
+#header-div {
+	margin-top: 150px;
+	padding-left: 40px;
+}
+.header-area {
+	background-image: url('images/header-bg.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+
+section {
+	height: 700px;
+}
+.bio-section-area {
+	background-image: url('images/biography-bg.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#bio-second-section {
+	height: 800px;
+}
+.latest-work {
+	width: 25%;
+	float: left;
+	margin-left: 80px;
+}
+.latest-work img {
+	width: 100%;
+}
+.latest-header {
+	text-align: center;
+	font-size: 2rem;
+	margin: 100px 100px;
+}
+.latest-section-area {
+	background-image: url('images/latest-work-bg.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: right;
+}
+#latest-bg {
+	height: 600px;
+}
+.client-say {
+	text-align: center;
+}
+.client-h1 {
+	font-size: 2rem;
+}
+.client-h5 {
+	color: gray;
+}
+.client-section-aera {
+	background-image: url('images/footer-bg.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: left;
+}
+#client-area-id {
+	height: 500px;
+}
+.email-section {
+	text-align: center;
+	margin-top: 80px;
+	background-color: #ec4978;
+	color: white;
+	padding: 30px;
+	margin-left: 350px;
+	margin-right: 350px;
+	border-radius: 5px;
+}
+footer p {
+	text-align: center;
+	font-size: 12px;
+	color: grey;
+}
